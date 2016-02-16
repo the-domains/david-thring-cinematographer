@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://vimeo.com/31417953'
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - stillmotion
   - vimeo
@@ -17,8 +17,8 @@ keywords:
   - tips
   - snapping
 description: 'http://www.davidthring.com'
-datePublished: '2016-02-16T22:48:20.399Z'
-dateModified: '2016-02-16T22:48:02.613Z'
+datePublished: '2016-02-16T23:06:30.898Z'
+dateModified: '2016-02-16T23:04:52.484Z'
 author:
   - name: David Thring
     url: 'http://vimeo.com/davidthring'
@@ -35,14 +35,14 @@ app_links:
     app_name: Vimeo
     package: com.vimeo.android.videoapp
 title: Cinematography Showreel
+sourcePath: _posts/2016-02-16-cinematography-showreel.md
+published: true
 authors: []
 publisher:
   name: Vimeo
   domain: vimeo.com
   url: 'https://vimeo.com/'
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-sourcePath: _posts/2016-02-16-cinematography-showreel.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
