@@ -1,0 +1,28 @@
+name: David Thring Cinematographer
+favicon: null
+layout_spectrum: 0.06255741720087826
+typography_spectrum: 0.9489571042358875
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.07282978179864585
+  lightness: 0.8120237647090107
+  saturation: 0.9104385795071721
+  rhythmicContrast: 0.530387629987672
+purpose: []
