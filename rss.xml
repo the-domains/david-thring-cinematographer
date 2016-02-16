@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[David Thring Cinematographer]]></title>
         <description><![CDATA[David Thring Cinematographer]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/david-thring-cinematographer/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Feb 2016 22:48:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 16 Feb 2016 23:04:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/david-thring-cinematographer/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How To Be More Average]]></title>
+            <description><![CDATA[<article><h1>How To Be More Average</h1><p>A spoof 1950's educational film entitled How To Be More Average. Shot on Super 8 using an old Canon 1014 xl-s on Kodak Ektachrome.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/33e8a9edb43aa3bddc75fc7702773a4d78c3d73e.jpg"></article>]]></description>
+            <link>https://vimeo.com/7253625</link>
+            <guid isPermaLink="false">824d7b5c-2f11-481e-8ee9-74f2cac9219f</guid>
+            <pubDate>Tue, 16 Feb 2016 23:03:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cinematography Showreel]]></title>
             <description><![CDATA[<article><h1>Cinematography Showreel</h1><p>http://www.davidthring.com</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cca18917566cd8fada2df63240dee3c3101e9d88.jpg"></article>]]></description>
