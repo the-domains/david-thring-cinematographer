@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[David Thring Cinematographer]]></title>
+        <description><![CDATA[David Thring Cinematographer]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 16 Feb 2016 22:48:45 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cinematography Showreel]]></title>
+            <description><![CDATA[<article><h1>Cinematography Showreel</h1><p>http://www.davidthring.com</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cca18917566cd8fada2df63240dee3c3101e9d88.jpg"></article>]]></description>
+            <link>https://vimeo.com/31417953</link>
+            <guid isPermaLink="false">805ddd50-5ca7-43f5-a60b-97e72b0ed2b6</guid>
+            <pubDate>Tue, 16 Feb 2016 22:48:20 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
